@@ -47,7 +47,8 @@ Predictability - teams with good processes (not to be confused with excessive pr
 ### In closing 
 Finally, and most importantly, my primary responsibility on any team I manage is to them, not the product, not the code base..but to the people I work with.  I have built deep meaningful relationships with the people that I have worked with over the years, I have been to their weddings, I have celebrated their first born and everything in between.  Their success and wins mean more to be than any successful business. I pride myself on making myself accessible to my team 24/7.
 
-Thats it for now but … coming Soon:
-Logistics .. Hiring, 1:1s, performance reviews (yay microfeedback) and other stuff
+
+## Coming soon 
+Some logistics .. Hiring, 1:1s, performance reviews (yay microfeedback) and other stuff
 
 Thanks for reading!

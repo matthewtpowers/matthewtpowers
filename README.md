@@ -1,132 +1,166 @@
 # 👋 About Me
 
+## TL;DR
+CTPO who ships **AI-native products and platforms**. I build **high-performing teams**, turn **data into leverage**, and connect **technology to business outcomes**. Patents in ML/AI (pre-gen-AI), mobile app roots (50+ apps shipped), and a track record scaling companies through **venture and PE**.
+
+---
+
 ## What is this?
-I got the inspiration for this from a few other CTOs in the startup community. Over the years, as I’ve worked with more people, I realized I spend a lot of time explaining who I am, my approach to engineering and product, and what it’s like to work with me. 
-
-This document isn’t just for the teams I manage—it's for anyone I work with. 
-
-## A Few Thoughts Before We Begin
-These are the principles and philosophies I’ve honed over **20+ years** of leading teams and building products. They reflect my experiences and are always evolving. I love discussing them, challenging them, and refining them over time. 
-
-If you have thoughts or feedback, I’m always open to hearing them.
+Over the years I found myself re-explaining how I work, my values, operating cadence, and what “good” looks like. This is the **field guide** for anyone working with me: engineering, product, data, go-to-market, or exec partners.
 
 ---
 
 ## My Background
-I hold a **BS in Computer Science** from Fairfield University and a **Master’s in Computer Engineering** from Boston University with a concentration in Software Engineering. My career spans across **large enterprises (Raytheon), early-stage startups, and Series A, B, and C-funded companies**. 
-
-I started as an **individual contributor (IC)**—writing ADA code before transitioning to **Android development**, working on the very first **T-Mobile G1 phone**. Over the years, I’ve built and led teams from the ground up, scaled organizations to **70+ engineers**, and held leadership roles in high-growth environments. 
-
-At my core, I love **building**—whether it’s **technology, teams, or processes**. The challenge of creating something meaningful from scratch is what drives me.
-
-### 📍 Where I Am Now
-I currently live in **Boston** (previously: CT → Boston → NYC → back to Boston). Outside of work, I love **traveling with my wife, Molly**, **spending time with our son, Jack**, and **reading on the beach**. 
-
-I’m also a **Boston sports fan** (yes, Celtics season ticket holder—sorry in advance).
+- **Degrees:** BS Computer Science (Fairfield), MS Computer Engineering (Boston University, Software Eng focus).  
+- **Range:** BigCo (Raytheon) → early-stage → Series A/B → PE.  
+- **Builder first:** Started as an IC (yes, even did ADA back in the day), then Android/iOS (shipped **50+ apps**) → engineering/product/data leadership → **CTPO**.  
+- **Patents:** Multiple ML/AI patents before the gen-AI wave.  
+- **Where I live:** Boston. Celtics season ticket holder. Family, travel, beach reads.
 
 ---
 
-## So, What’s a CTO?
-A **CTO’s role changes** depending on the size and maturity of an organization. The best ones (in my opinion) **contribute strategically** while **staying hands-on**, using their technical background to help the business make better decisions. 
+## Now: What I’m Building
+**CTPO @ Tatango.** We’ve evolved from “messaging platform” to **intelligent infrastructure for social impact**—SMS, MMS, WhatsApp, and **RCS**—with **AI-driven engagement** at scale.
 
-A great CTO **adapts**—balancing **strategy and execution** to set their teams up for success within the given constraints. And the best ones never **lose touch with the work**.
-
----
-
-## 🔥 How I Connect Technology to Business Strategy
-I’m not just a technical leader—I **bridge the gap between engineering and business strategy** to **drive impact**. 
-
-### 🚀 **Technology as a Business Enabler**
-Technology should never be an obstacle—it should be a **competitive advantage**. My approach:
-- **Solve real problems, not just build for the sake of building.**  
-- **First-principles thinking**—understand business constraints, user pain points, and economic drivers behind product decisions.  
-- **Cut through the noise**—eliminate inefficiencies, improve observability, and accelerate time-to-value for customers.  
-
-I **love alleviating pain at scale**—whether it’s simplifying customer onboarding, optimizing delivery processes, or removing unnecessary complexity from engineering workflows.  
-
-### 🎯 **Strategic Superpower: Seeing Around Corners**
-One of my strengths is anticipating **what’s coming next**—whether in **market trends, team dynamics, or technology evolution**.  
-
-- **Think in trade-offs, not absolutes**—knowing when to **move fast vs. build for the long haul**.  
-- **Spot inefficiencies early**—systematically eliminate friction before it slows down execution.  
-- **Challenge assumptions**—always asking "why" to ensure engineering efforts align with business needs.  
-
-### 🔍 **How I Make an Organization More Effective**
-If there’s a broken process, **I fix it**. If there’s an **opportunity to move faster, I find it**.  
-
-- **Design for speed**—short feedback loops, rapid iteration, and a clear focus on impact.  
-- **Connect engineering to business goals**—so teams always see the bigger picture.  
-- **Break silos**—ensuring **product, sales, and engineering** work as one unit.  
-
-### 💡 **Why This Matters**
-I **love solving business and technical pain at scale**.  
-- I get **deeply involved in the hard problems**.  
-- I **see constraints as creative challenges**.  
-- I enjoy **taking the complex and making it simple**.  
+### Highlights
+- **AI inside the product & the SDLC:** RAG for brand-safe content, **Smart Send Time**, **Power Segments**, predictive donor scoring, sentiment-aware messaging.  
+- **Modern data layer:** **Snowflake + dbt + Lightdash + Prefect** → single source of truth, faster experimentation, real-time decisioning.  
+- **AI-native SDLC:** automation, agents, and guardrails → **10× faster deployments**, **90% fewer change failures**.  
+- **Trust/compliance:** **SOC 2 Type II**, **HIPAA**; privacy and safety as product features.  
+- **Revenue automation:** usage-based billing capturing **$60M+** annually.  
+- **Go-to-market shift:** sales-led → **product-led, data-intelligent growth**; nonprofit revenue up **39×** (3,900%).
 
 ---
 
-## 🛠 Individual Contributor (IC) Role
-Even as a leader, I believe in rolling up my sleeves and contributing when needed. A well-rounded CTO should:
-- **Own the Buy vs. Build Decision** – Including managing P&L responsibility.
-- **Make Strategic Technical Decisions** in:
-  - Architecture  
-  - Platform Development  
-  - Delivery Processes  
-  - DevOps & Infrastructure  
-- **Ensure Fast, Safe Delivery of Software** – Code reviews, PRs, and release engineering.  
-- **Collaborate with Other ICs** – Especially on cross-functional product work.  
-- **Be a Liaison Across the Business** – Connecting engineering with product, sales, and customer success.  
-- **Do the Dirty Work** – There are always **limited resources**. If something needs doing, I do it.
+## What’s a CTO/CTPO (to me)?
+The job flexes with company stage. The best ones **stay hands-on**, translate strategy into **operating systems**, and make **impact measurable**.
+
+### How I adapt by stage
+- **0→1:** Prove value fast. Buy vs. build ruthlessly. Thin slices, strong telemetry, zero ceremony.  
+- **1→N:** Platformize. Create primitives, paved roads, and a metrics fabric.  
+- **N→Scale/PE:** Tighten economics (margins, reliability, compliance), invest in **SDLC leverage**, and build durable teams.
 
 ---
 
-## 🎯 Leadership & Engineering Management
-Startups demand leaders who can **balance execution and strategy**. My approach to leadership includes:
-- **Making Engineering Understandable** – Translating complex topics for leadership and stakeholders.
-- **Scaling Tech & Teams** – Designing engineering processes that adapt as business needs evolve.
-- **Setting High Hiring Standards** – More on this below.
-- **Mentoring & Growing Talent** – The best leaders create **better leaders**.
-- **Removing Roadblocks** – My job is to make teams **faster and more effective**.
-- **Being Human** – Engineering isn’t just code; it’s about people.
+## How I Connect Technology to Business
+**Technology is a profit center.** I align engineering to P&L and customer outcomes.
+
+- **First-principles trade-offs:** speed vs. durability, capex vs. opex, build vs. buy.  
+- **Observability everywhere:** instrumentation before iteration.  
+- **Short feedback loops:** experiments that retire risk quickly.  
+- **Sane defaults:** opinionated platforms and paved roads that remove drag.
 
 ---
 
-## 🏆 My Hiring Philosophy
-I **love** growing talent. Finding and developing **the right people** is the most important part of my job. 
+## My Operating System (How I Work)
+### Cadence
+- **Weekly:** outcomes review (KPIs/OKRs), rollout board, risk ledger.  
+- **Bi-weekly:** product bets & learnings; experiment kill/scale decisions.  
+- **Monthly:** talent & org health, reliability, security posture, cost curves.  
+- **Quarterly:** portfolio re-allocation; what we’ll **stop** doing.
 
-### What I Look For:
-- **Smart, adaptable problem-solvers** – I don’t hire for one skill set; I hire for **learning ability**.
-- **People who love to build** – Whether it’s code, teams, or processes.  
-- **Grit & ownership** – Startups need **doers**, not just thinkers.  
-- **Strong communicators** – If you can’t explain your thinking, you won’t scale with the org.  
-- **Cultural Add, Not Just Fit** – I look for diverse perspectives, not clones of myself.  
+### Decision Frameworks
+- **BAR (Bet, Assumptions, Risk):** every initiative has explicit assumptions and a kill switch.  
+- **Guardrails > Gates:** enforce quality with automation (tests, policies, feature flags), not meetings.  
+- **“Measure twice, cut once” data model:** analytics ready on day one.
 
-### The Hiring Process:
-- **Structured, transparent, and intentional.** No vague gut-feeling decisions.
-- **Micro-feedback loops.** I prefer **frequent feedback over annual reviews**.
-- **I care about motivation.** Why do you want this role? What excites you?  
-- *Who* by Geoff Smart shaped my approach—hiring is too important to wing it.  
-
----
-
-## 📢 Final Thoughts  
-At the end of the day, my **#1 responsibility** is to my **team**—not the product, not the codebase, but **the people I work with**. 
-
-I’ve built **deep, lasting relationships** with colleagues over the years—attended their weddings, celebrated their kids being born, and watched them grow into incredible leaders.  
-
-Their success **matters more to me than any business outcome**. If they thrive, **everything else follows**.  
-
-I’m always accessible, always open to feedback, and always willing to evolve.  
+### Docs I Expect
+1-pager problem briefs, PRDs with hypotheses, ADRs for irreversible decisions, runbooks for ops.
 
 ---
 
-## 🚀 Coming Soon  
-I’ll be adding more details on:
-- **Hiring & Interviewing**
-- **1:1s & Performance Reviews (yay micro-feedback!)**
-- **Engineering Process & Culture**  
-- **More on Scaling & Leadership**  
+## What I Value (and Don’t)
+✅ **Ownership & bias for action**  
+✅ **Clarity:** plain English, no buzzword armor  
+✅ **Craft:** code quality, data modeling, design, security  
+✅ **Teaching culture:** leaders who create leaders  
+✅ **Customer signal:** talk to them, measure them, learn from them  
 
-Thanks for reading!  
-Feel free to reach out—I'm always happy to chat.  
+🚫 “Ship then think”  
+🚫 “That’s not my job”  
+🚫 Hidden work, hidden metrics  
+🚫 Process for process’ sake
+
+---
+
+## Leadership & Team Building
+- **High bar hiring:** learning velocity > laundry list of tools.  
+- **Small, autonomous teams:** clear mission, tight interfaces, end-to-end ownership.  
+- **Micro-feedback loops:** weekly feedback > annual surprises.  
+- **Career paths:** IC and Manager tracks are equally valued.  
+- **Psychological safety:** dissent welcome; we commit once decided.
+
+### What Great Looks Like
+Teams that **ship HOURLY**, own the outcome, and can explain *why* their work moved a KPI.
+
+---
+
+## My IC Mode (still on)
+Leadership ≠ distance from code. I’ll jump in to unblock and to learn.
+
+- **Architecture & platform choices** (and the buy-vs-build math).  
+- **Data & analytics:** modeling, dbt reviews, metric definitions.  
+- **Release engineering:** flags, progressive delivery, rollback plans.  
+- **Security & compliance** as design constraints, not afterthoughts.  
+- **Dirty work** when resources are tight.
+
+---
+
+## AI-Native SDLC (How We Ship Fast *Safely*)
+- **Agents in the loop:** scaffolding, tests, docs, PR reviews.  
+- **Policy as code:** guardrails for secrets, PII, accessibility, and perf budgets.  
+- **Progressive delivery:** feature flags, canaries, automatic rollback on SLO breaches.  
+- **Telemetry by default:** logs, metrics, traces, **plus** business KPIs stitched to releases.
+
+**Outcomes:** **10× deploy speed**, **90%+ reduction in change failures**, faster MTTR, tighter product learning cycles.
+
+---
+
+## Product Strategy (Hypothesis → Impact)
+- **Start with the KPI.** Every roadmap item has a target metric and an experiment plan.  
+- **Thin-slice the experience.** Hand off to customers early; let data choose the path.  
+- **Benchmarks & insights:** show customers where they stand and what to do next.  
+- **Human-in-the-loop AI:** brand-safe generation, explainability, and controls.
+
+---
+
+## Recent Work I’m Proud Of
+- **Snowflake + dbt + Lightdash** foundation: single source of truth; faster dashboards; fewer ad-hoc asks.  
+- **RAG in production:** on-brand, context-aware content at scale.  
+- **Smart Send Time / Power Segments:** materially higher engagement with behavioral signals.  
+- **Usage-based billing:** $40M+ captured annually, cleaner margins and predictability.  
+- **SOC 2 Type II & HIPAA:** shipped without slowing the roadmap.
+
+---
+
+## Hiring Philosophy
+I hire **builders** with strong communication, curiosity, and grit. I care more about **how you think and learn** than whether you’ve used tool X. Diversity of backgrounds and thought isn’t a nicety—it’s a scaling advantage.
+
+**Process:** structured, transparent, signal-dense. No trick questions. Real problems, real collaboration, real feedback.
+
+---
+
+## Working With Me
+- **Availability:** quick feedback, unblocked teams.  
+- **Communication:** async by default; meetings are for decisions.  
+- **Escalation:** raise risks early—bad news compounds.  
+- **Commitment:** once we decide, we move as one.
+
+---
+
+## Final Thoughts
+My #1 responsibility is to the **people**. When teams thrive, **products accelerate**, **customers feel it**, and **the business performs**. I’ll keep evolving this doc; if you have feedback, I want it.
+
+---
+
+### Appendix: Tools & Stack (Representative)
+- **Cloud/Infra:** AWS (Lambda, Fargate, ECS, CDK), serverless, IaC  
+- **Data:** Snowflake, dbt, Lightdash, Prefect, Elasticsearch  
+- **App:** Node/Rails/.NET variants, React/Next, Swift, Java (iOS/Android)  
+- **Messaging:** SMS/MMS/WhatsApp/**RCS**; delivery optimization & compliance  
+- **SDLC:** CI/CD, feature flags, e2e testing, observability, security & privacy by design
+
+---
+
+## Short GitHub Profile Blurb (optional)
+**CTPO building AI-native products and platforms.** Patents in ML/AI, mobile roots (50+ apps), and a track record scaling companies through venture and PE. I turn data into leverage, teams into engines, and shipping into a habit. Always happy to talk AI/ML, product strategy, and scaling teams.
